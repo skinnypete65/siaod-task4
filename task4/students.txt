@@ -1,0 +1,7 @@
+4 inb0-04,Nikita Leontev
+1 inbo-01,Svishev Andrey
+6 inbo-05,Namoev Artem
+2 inbo-04,Kireeva Ksenia
+10 inbo-02,Komarov Sanya
+7 inbo-04,Khametov Aleksey
+12 inbo-08,Ded Moroz
